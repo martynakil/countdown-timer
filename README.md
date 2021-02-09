@@ -35,5 +35,4 @@ click save and start the countdown! :high_brightness: :high_brightness: :high_br
 
 :computer: TECHNOLOGIES : html, css and JS.
 
-
-![Zrzut ekranu 2021-01-17 o 12 25 36](https://github.com/martynakil/-JS-slideshow)
+(https://user-images.githubusercontent.com/59742201/105092169-33c95880-5aa1-11eb-98f7-d7069e43ddfb.gif)
