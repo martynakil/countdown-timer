@@ -35,4 +35,12 @@ click save and start the countdown! :high_brightness: :high_brightness: :high_br
 
 :computer: TECHNOLOGIES : html, css and JS.
 
-(https://user-images.githubusercontent.com/59742201/105092169-33c95880-5aa1-11eb-98f7-d7069e43ddfb.gif)
+
+—
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-JS-slideshow)
+
+
+
+
+![Zrzut ekranu 2021-02-9 o 22 48 03](https://user-images.githubusercontent.com/59742201/107432893-e3399e00-6b28-11eb-9173-ff02a7aeadfc.png)
+
