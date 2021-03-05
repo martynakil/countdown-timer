@@ -48,13 +48,13 @@ click save and start the countdown! :high_brightness: :high_brightness: :high_br
 
 —------------------
 
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-JS-slideshow)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/-JS-slideshow)
 
 ----------------->
 
 
 
-do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakil.github.io/countdown-timer/ )
+do you want to watch it live?📲 :calling:  :arrow_forward:   [click me!](https://martynakiljan.github.io/countdown-timer/ )
 
 
 
